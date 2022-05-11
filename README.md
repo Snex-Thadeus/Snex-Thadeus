@@ -67,7 +67,7 @@ I'm Thadeus Lwande, a Backend Web/Software Developer and Content Creator on [You
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Snex-Tech Programmer Youtube Channel exists!
 
-#### What is CoderOne?
+#### What is Snex-Tech Programmer?
 
 Snex-Tech Programmer is a youtube channel for learning Web development, coding, design and IT related stuffs. Including new technologies and frameworks and anything really related to development world.
 
